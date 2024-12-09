@@ -18,12 +18,12 @@ This platform is built to enable students to interact through Q&A-style discussi
 
 The database consists of the following tables:
 
-1. **`students`**: Stores student details.  
-2. **`domains`**: Lists various areas of expertise.  
-3. **`expertise`**: Links students to their respective areas of expertise.  
-4. **`questions`**: Contains questions posted by students.  
-5. **`answers`**: Contains answers to the questions, with average ratings.  
-6. **`reviews`**: Stores ratings and comments for answers.
+1. **students**: Stores student details.  
+2. **domains**: Lists various areas of expertise.  
+3. **expertise**: Links students to their respective areas of expertise.  
+4. **questions**: Contains questions posted by students.  
+5. **answers**: Contains answers to the questions, with average ratings.  
+6. **reviews**: Stores ratings and comments for answers.
 
 **Entity-Relationship Diagram**
 
